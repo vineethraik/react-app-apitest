@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/initial-web-dev/projects/react-api-test/static/css/main.8655fe18.css",
+    "main.js": "/initial-web-dev/projects/react-api-test/static/js/main.93fa725d.js",
+    "static/js/787.cc5914d5.chunk.js": "/initial-web-dev/projects/react-api-test/static/js/787.cc5914d5.chunk.js",
+    "index.html": "/initial-web-dev/projects/react-api-test/index.html",
+    "main.8655fe18.css.map": "/initial-web-dev/projects/react-api-test/static/css/main.8655fe18.css.map",
+    "main.93fa725d.js.map": "/initial-web-dev/projects/react-api-test/static/js/main.93fa725d.js.map",
+    "787.cc5914d5.chunk.js.map": "/initial-web-dev/projects/react-api-test/static/js/787.cc5914d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8655fe18.css",
+    "static/js/main.93fa725d.js"
+  ]
+}
